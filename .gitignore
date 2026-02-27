@@ -22,3 +22,23 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# dependencies
+node_modules
+
+# production
+dist
+
+# environment variables
+.env
+.env.local
+.env.*.local
+
+# editor
+.vscode
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
